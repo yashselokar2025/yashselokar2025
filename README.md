@@ -1,5 +1,5 @@
-![Banner](<img width="1472" height="704" alt="Gemini_Generated_Image_cwlgmcwlgmcwlgmc" src="https://github.com/user-attachments/assets/f7054fb4-d802-454c-a733-6652b85368b8" />
-)
+(<img width="1472" height="704" alt="Gemini_Generated_Image_cwlgmcwlgmcwlgmc" src="https://github.com/user-attachments/assets/f7054fb4-d802-454c-a733-6652b85368b8" />
+
 
 ## 👋 About Me
 
