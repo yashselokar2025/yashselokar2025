@@ -7,7 +7,7 @@ Hi, I’m **Yash Selokar** 👨‍💻
 - 🌱 Learning Cloud, Web Development & DSA  
 - 🚀 Interested in AWS, DevOps & Backend  
 - 💡 Love building real-world projects  
-- 📫 Reach me: yash@example.com
+- 📫 Reach me: yash20selokar22@gmail.com
 - 
 ## 💻 Languages
 
