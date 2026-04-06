@@ -21,6 +21,7 @@ Hi, I’m **Yash Selokar** 👨‍💻
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-blue?style=for-the-badge&logo=netlify)
+![Render]
 
 ## ⚙️ Frameworks & Tools
 
