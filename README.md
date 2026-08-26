@@ -132,6 +132,18 @@ Uptime      : 24x7
 
 ---
 
+# 💬 WhatsApp Community
+
+Scan the QR code below or click the banner to join the exclusive WhatsApp community and exchange ideas with fellow AI geeks and developers.
+
+<div align="center">
+  <a href="#">
+    <img src="https://via.placeholder.com/800x200/25D366/FFFFFF?text=Click+to+Join+WhatsApp+Community" alt="WhatsApp Community Banner" />
+  </a>
+</div>
+
+---
+
 # 🤝 Connect With Me
 <div align="center">
 
