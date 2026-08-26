@@ -98,12 +98,12 @@ and next-generation AI automation workflows.
 # 📊 GitHub Analytics
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashselokar2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashselokar2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashselokar2025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashselokar2025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashselokar2025&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashselokar2025&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
