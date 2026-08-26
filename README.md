@@ -126,7 +126,7 @@ Scan the QR code below or click the banner to join the exclusive WhatsApp commun
 
 <div align="center">
   <a href="#">
-    <img src="whatsapp_banner.png" alt="WhatsApp Community Banner" />
+    <img src="https://raw.githubusercontent.com/yashselokar2025/yashselokar2025/main/whatsapp_banner.png" alt="WhatsApp Community Banner" />
   </a>
 </div>
 
